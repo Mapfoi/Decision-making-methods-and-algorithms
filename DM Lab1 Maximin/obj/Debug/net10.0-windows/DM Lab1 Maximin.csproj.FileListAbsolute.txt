@@ -1,0 +1,17 @@
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\bin\Debug\net10.0-windows\DM Lab1 Maximin.exe
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\bin\Debug\net10.0-windows\DM Lab1 Maximin.deps.json
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\bin\Debug\net10.0-windows\DM Lab1 Maximin.runtimeconfig.json
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\bin\Debug\net10.0-windows\DM Lab1 Maximin.dll
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\bin\Debug\net10.0-windows\DM Lab1 Maximin.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM_Lab1_Maximin.Form1.resources
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM Lab1 Maximin.csproj.GenerateResource.cache
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM Lab1 Maximin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM Lab1 Maximin.AssemblyInfoInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM Lab1 Maximin.AssemblyInfo.cs
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM Lab1 Maximin.csproj.CoreCompileInputs.cache
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM Lab1 Maximin.sourcelink.json
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM Lab1 Maximin.dll
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\refint\DM Lab1 Maximin.dll
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM Lab1 Maximin.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\DM Lab1 Maximin.genruntimeconfig.cache
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\obj\Debug\net10.0-windows\ref\DM Lab1 Maximin.dll
