@@ -1,0 +1,2 @@
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\bin\Release\net10.0-windows\publish\win-x64\DM Lab1 Maximin.pdb
+D:\Programs\Microsoft Visual Studio\Projects\Decision-making-methods-and-algorithms\DM Lab1 Maximin\bin\Release\net10.0-windows\publish\win-x64\DM Lab1 Maximin.exe

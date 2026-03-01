@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DM Lab1 Maximin/1.0.0": {
+        "runtime": {
+          "DM Lab1 Maximin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DM Lab1 Maximin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
